@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/MaanAlHababi/FrontEndMentor---Social-Links-Profile-Submission)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://maanalhababi.github.io/FrontEndMentor---Social-Links-Profile-Submission/)
 
 ## My process
 
